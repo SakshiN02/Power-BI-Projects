@@ -1,5 +1,5 @@
 
-# HR Analytics Dahsboard
+# HR Analytics Dashboard
 ## Drive link for the Dashboard, you can download and view it.
 https://1drv.ms/u/c/6073c47068aa175c/EQZEGV4rVVhNv1CTt1wqctEBlV5KbU4pxejYoN2EWuTPhg?e=eTImAB
 
